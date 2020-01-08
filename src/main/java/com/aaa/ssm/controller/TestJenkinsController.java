@@ -19,7 +19,6 @@ public class TestJenkinsController {
 
     /**
      * 打印信息
-     *
      * @return
      */
     @RequestMapping("print")
@@ -31,4 +30,5 @@ public class TestJenkinsController {
         return map;
     }
 }
+
 
